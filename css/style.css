@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Satisfy&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+header {
+  background-color: lightpink; }
+  header div {
+    background-color: lightgreen;
+    width: 50%; }
+    header div h1 {
+      color: black;
+      font-size: 40px;
+      font-family: "Roboto", sans-serif; }
+    header div p {
+      font-family: "Satisfy", cursive; }
+
+.section-one {
+  background-color: lightcoral;
+  font-family: "Roboto", sans-serif; }
+
+p {
+  font-family: "Satisfy", cursive; }
+
+@media (max-width: 768px) {
+  header {
+    background-color: aqua; }
+    header div {
+      background-color: peru; } }

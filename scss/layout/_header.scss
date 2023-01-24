@@ -1,0 +1,15 @@
+header{
+    background-color: lightpink;
+    div{
+        background-color: lightgreen;
+        width: 50%;
+        h1{
+            color: black;
+            font-size: 40px;
+            font-family: $tipografia-pricipal;
+        }
+        p{
+            font-family: $tipografia-secudaria;
+        }
+    }
+}
